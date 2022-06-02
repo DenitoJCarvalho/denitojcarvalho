@@ -1,4 +1,4 @@
-###  👋Olá, Eu sou Dennis J. de Carvalho
+##  👋Olá, Eu sou Dennis J Carvalho
 ##
 🔭 Hoje trabalho como Analista de Desenvolvimento Jr na Sisplus
  
