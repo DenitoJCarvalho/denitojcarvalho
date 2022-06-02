@@ -14,3 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/>
 </div>
+ 
+ <br><br>
+ 
+ Redes sociais
+ 
+ <div style="display: flex; flex-flow: row wrap; justify-content: center">
+  <a href="https://www.linkedin.com/in/dennisjcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </div>
