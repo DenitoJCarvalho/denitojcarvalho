@@ -31,3 +31,8 @@
  <div style="display: flex; flex-flow: row wrap; justify-content: center">
   <a href="https://www.linkedin.com/in/dennisjcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
+ 
+ <div>
+  <h5>Acesse o site através do qrcode</h5>
+  <img src="https://user-images.githubusercontent.com/31069368/172014714-82ac8d2a-78dc-4dfd-b32d-363c14d9d04d.png" alt="site" width="62" height="82" />
+ </div>
