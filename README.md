@@ -24,13 +24,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/>
 </div>
  
- <br><br>
- 
- Redes sociais
- 
- <div style="display: flex; flex-flow: row wrap; justify-content: center">
-  <a href="https://www.linkedin.com/in/dennisjcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- </div>
+<br><br>
+
+<div>
+ <a href="https://github.com/DenitoJCarvalho">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=denitojcarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denitojcarvalho&layout=compact&langs_count=16&theme=dracula" />
+ </a>
+</div>
+
+<br>
+
+Redes sociais
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center">
+ <a href="https://www.linkedin.com/in/dennisjcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
  
  <div>
   <h5>Acesse o site através do qrcode</h5>
