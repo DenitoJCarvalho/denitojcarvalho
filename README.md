@@ -6,7 +6,7 @@
  
 📫 Contate-me no email: <strong style="color: #2AE01D">dennisjcarvalho@gmail.com</strong>
  
-🔗 Site: <a href="https://dennisjcarvalho.com.br" style="color: #2AE01D"><strong>https://dennisjcarvalho..com.br</strong></a>
+🔗 Site: <a href="https://dennisjcarvalho.com.br" style="color: #2AE01D"><strong>https://dennisjcarvalho.com.br</strong></a>
  
 <div style="font-weight: 200">
  <img src="https://user-images.githubusercontent.com/31069368/171664021-1dab67ff-294d-4dc7-97c7-c2a02d7b4054.png" width="24" height="24" /> - 
