@@ -1,8 +1,8 @@
 ## 👋Olá, Eu sou Dennis J Carvalho
 
-🔭 Trabalho como Analista de Desenvolvimento Jr na Sisplus
+🔭 Trabalho como Analista de Desenvolvimento Jr.
  
-🌱 Estudando C#, Node, Typescript e Angular
+🌱 Estudando C#, Typescript e Angular
  
 📫 Contate-me no email: <strong style="color: #2AE01D">dennisjcarvalho@gmail.com</strong>
  
@@ -10,7 +10,8 @@
  
 <div style="font-weight: 200">
  <img src="https://user-images.githubusercontent.com/31069368/171664021-1dab67ff-294d-4dc7-97c7-c2a02d7b4054.png" width="24" height="24" /> - 
- Graduado em Análise e Desenvolvimento de Sistemas e pós - graduado em Segurança da Informação. De 2015 a 2021 atuei na área de manutenção de computadores, também um pouco de suporte de redes e desde o final de 2021 estou atuando como desenvolvedor junior, contribuindo como front-end nos projetos da <a href="https://github.com/SisplusTI"><strong><i>Sisplus</i></strong></a>.
+ Graduado em Análise e Desenvolvimento de Sistemas e pós - graduado em Segurança da Informação. De 2015 a 2021 atuei na área de manutenção de computadores, também um pouco de suporte de redes e desde o final de 2021 estou atuando como desenvolvedor junior. 
+ Atualmente contribuo com  meus serviços nos projetos da <a href="https://github.com/SisplusTI"><strong><i>Sisplus</i></strong></a>.
 </div>
  
 <br>
@@ -40,8 +41,4 @@ Redes sociais
 <div style="display: flex; flex-flow: row wrap; justify-content: center">
  <a href="https://www.linkedin.com/in/dennisjcarvalho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
- 
- <div>
-  <h5>Acesse o site através do qrcode</h5>
-  <img src="https://user-images.githubusercontent.com/31069368/172014714-82ac8d2a-78dc-4dfd-b32d-363c14d9d04d.png" alt="site" width="62" height="82" />
- </div>
+
