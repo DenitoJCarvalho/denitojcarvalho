@@ -1,6 +1,6 @@
 ## 👋Olá, Eu sou Dennis J Carvalho
 
-🔭 Trabalho como Analista de Desenvolvimento Jr.
+🔭 Analista de Desenvolvimento Jr.
  
 🌱 Estudando C#, Typescript e Angular
  
