@@ -11,7 +11,6 @@
 <div style="font-weight: 200">
  <img src="https://user-images.githubusercontent.com/31069368/171664021-1dab67ff-294d-4dc7-97c7-c2a02d7b4054.png" width="24" height="24" /> - 
  Graduado em Análise e Desenvolvimento de Sistemas e pós - graduado em Segurança da Informação. De 2015 a 2021 atuei na área de manutenção de computadores, também um pouco de suporte de redes e desde o final de 2021 estou atuando como desenvolvedor junior. 
- Atualmente contribuo com  meus serviços nos projetos da <a href="https://github.com/SisplusTI"><strong><i>Sisplus</i></strong></a>.
 </div>
  
 <br>
