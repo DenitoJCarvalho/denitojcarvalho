@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon/mongodb/mongodb-original.svg" width="42" height="42" />
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg" width="42" height="42" />
           
 </div>
  
