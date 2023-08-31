@@ -2,7 +2,7 @@
 
 🔭 Analista e Desenvolvedor de Sistemas.
  
-🌱 Estudando C#, Typescript e Angular
+🌱 Estudando Typescript, Angular e TDD.
  
 📫 Contate-me no email: <strong style="color: #2AE01D">dennisjcarvalho@gmail.com</strong>
  
