@@ -9,8 +9,23 @@
 🔗 Site: <a href="https://dennisjcarvalho.com.br" style="color: #2AE01D"><strong>https://dennisjcarvalho.com.br</strong></a>
  
 <div style="font-weight: 200">
- <img src="https://user-images.githubusercontent.com/31069368/171664021-1dab67ff-294d-4dc7-97c7-c2a02d7b4054.png" width="24" height="24" /> - 
- Graduado em Análise e Desenvolvimento de Sistemas e pós - graduado em Segurança da Informação. De 2015 a 2021 atuei na área de manutenção de computadores, suporte field-service e também um pouco de suporte de redes e desde o final de 2021 estou atuando como desenvolvedor de sistemas. 
+ <img src="https://user-images.githubusercontent.com/31069368/171664021-1dab67ff-294d-4dc7-97c7-c2a02d7b4054.png" width="24" height="24" /> 
+  Analista e Desenvolvedor de Sistemas atuando no mercado desde o final de 2021 em desenvolvimentos 
+  de sistemas web e sites.
+  Conhecimento em: <br>
+   - Linguagens de programação: javascript, typescript, csharp(c#) <br>
+   - Frontend: angular, javascript, html5, css3 <br>
+   - Backend: node.js, csharp(c#), typescript <br>
+   - Banco de dados: sql server, mysql, mongodb. <br>
+
+  Durante esse tempo trabalhei na equipe de desenvolvimento, tanto no lado backend quanto
+  frontend, entregando páginas e funcionalidades para produtos como Fiadorweb.
+
+  Também trabalhei por 7 anos com suporte field-service atendendo clientes na minha cidade e
+  região.
+
+  Nesse período pude desenvolver e aprimorar habilidades como auto-organização, disciplina e
+  trabalho em equipe.
 </div>
  
 <br>
